@@ -1,8 +1,8 @@
 # The 4AM Commit
 
-[![Rank](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/rahmatjibran04-byte/makefun-4am-commit/rank.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
-[![Score](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/rahmatjibran04-byte/makefun-4am-commit/score.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
-[![Entries](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/rahmatjibran04-byte/makefun-4am-commit/entries.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
+[![make.fun · u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
+[![rank](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/rahmatjibran04-byte/makefun-4am-commit/rank.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
+[![reward](https://make.fun/badge/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d/rahmatjibran04-byte/makefun-4am-commit/reward.svg)](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d)
 
 Entry for the [make.fun bounty "The 4AM Commit: Funniest Agent Bug-Fix Message"](https://make.fun/bounty/u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d).
 
